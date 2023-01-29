@@ -6,8 +6,7 @@ CATEGORIZATORS = {
 
 TEST_URLS = (
     'https://google.com',
-    'https://ya.com',
-    'https://vk.vom',
+    # 'https://ya.com',
     'https://youtube.com',
     'https://www.zillow.com/',
     'https://www.apple.com/',
